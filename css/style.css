@@ -3552,7 +3552,7 @@ input[type="button"].btn-block {
       color: rgba(0, 0, 0, 0.9); }
 
 .navbar-dark .navbar-brand {
-  color: #fff; }
+  color: #000; }
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
     color: #fff; }
 
@@ -7308,11 +7308,11 @@ h1, h2, h3, h4, h5,
   z-index: 3; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000 !important;
+      background: #fff !important;
       position: relative;
       top: 0; } }
   .ftco-navbar-light .navbar-brand {
-    color: #fff; }
+    color: #000; }
     @media (min-width: 768px) {
       .ftco-navbar-light .navbar-brand {
         color: #000; } }
@@ -7327,7 +7327,7 @@ h1, h2, h3, h4, h5,
     padding-right: 20px;
     text-transform: uppercase;
     font-weight: 400;
-    color: #fff;
+    color: #000;
     opacity: 1 !important; }
     @media (min-width: 992px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
@@ -7382,14 +7382,14 @@ h1, h2, h3, h4, h5,
         border-radius: 4px; } }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a span {
       display: inline-block;
-      color: #2f89fc; }
+      color: #000; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
     border-color: #2f89fc; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
     color: #2f89fc; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: #000 !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
